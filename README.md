@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonwestman
-- 👀 I’m interested in .NET, C#, SQL, Azure, Machine Learning, JavaScript
+- 👀 I’m interested in .NET, C#, SQL, Azure, Machine Learning, JSON, JavaScript
 - 🌱 I’m currently learning C# and OOP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
